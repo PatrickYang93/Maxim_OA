@@ -1,0 +1,14 @@
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\bin\Debug\Maxim_OA.Data.dll.config
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\bin\Debug\Maxim_OA.Data.dll
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\bin\Debug\Maxim_OA.Data.pdb
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\bin\Debug\EntityFramework.dll
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\bin\Debug\EntityFramework.xml
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\obj\Debug\Maxim_OA.Data.dll
+c:\Users\Patrick\documents\visual studio 2015\Projects\Maxim_OA\Maxim_OA.Data\obj\Debug\Maxim_OA.Data.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Data\obj\Debug\Maxim_OA.Data.csprojAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Data\obj\Debug\Maxim_OA.Data.csproj.CopyComplete
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Data\obj\Debug\Maxim_OA.Data.Migrations.InitialCreate.resources
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Data\obj\Debug\Maxim_OA.Data.csproj.GenerateResource.cache
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Data\obj\Debug\Maxim_OA.Data.Migrations.firstmigration.resources

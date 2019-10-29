@@ -1,0 +1,14 @@
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\Maxim_OA.Repo.dll.config
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\Maxim_OA.Repo.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\Maxim_OA.Repo.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\EntityFramework.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\Maxim_OA.Data.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\Maxim_OA.Data.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\EntityFramework.xml
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\obj\Debug\Maxim_OA.Repo.dll
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\obj\Debug\Maxim_OA.Repo.pdb
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\bin\Debug\Maxim_OA.Data.dll.config
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\obj\Debug\Maxim_OA.Repo.csprojAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Maxim_OA\Maxim_OA.Repo\obj\Debug\Maxim_OA.Repo.csproj.CopyComplete
